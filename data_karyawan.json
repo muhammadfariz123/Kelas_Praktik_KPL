@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nama": "Andi",
+        "jabatan": "Manager",
+        "gaji": 12000000
+    },
+    {
+        "id": 2,
+        "nama": "Budi",
+        "jabatan": "Staff",
+        "gaji": 7000000
+    },
+    {
+        "id": 3,
+        "nama": "Citra",
+        "jabatan": "HRD",
+        "gaji": 8000000
+    }
+]
